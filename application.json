@@ -27,8 +27,12 @@
   "icon": "server",
   "pages": [
     {
-      "id": "Tasks",
+      "id": "todo home page",
       "isDefault": true
+    },
+    {
+      "id": "todo appsmith store page",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
