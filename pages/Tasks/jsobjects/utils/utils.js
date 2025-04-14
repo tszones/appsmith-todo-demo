@@ -97,11 +97,11 @@ export default {
 	// 保留你现有的所有函数和属性...
 
 	// 添加一个使用ky发送请求的新函数
-	fetchUserData: async () => {
+	fetchUserData: () => {
 		try {
 
 			// 发送GET请求到JSONPlaceholder API (一个公开的测试API)
-			const response = await ky.default('https://jsonplaceholder.typicode.com/users/1').json();
+			const response = ky.get('https://jsonplaceholder.typicode.com/users/1').json();
 
 			return response;
 		} catch (error) {
@@ -114,7 +114,7 @@ export default {
 	// 另一个示例 - 发送POST请求
 	createDummyPost: async (title, body) => {
 		try {
-			const response = await ky.default.post('https://jsonplaceholder.typicode.com/posts', {
+			const response = await ky.post('https://jsonplaceholder.typicode.com/posts', {
 				json: {
 					title: title || '示例标题',
 					body: body || '这是一个示例帖子内容',

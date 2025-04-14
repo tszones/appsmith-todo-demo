@@ -1,7 +1,8 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 35,
+  "bottomRow": 25,
+  "disableLink": false,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -17,6 +18,7 @@
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [],
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
@@ -33,7 +35,7 @@
   "mobileRightColumn": 39,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "originalBottomRow": 33,
+  "originalBottomRow": 35,
   "originalTopRow": 18,
   "overflow": "NONE",
   "parentColumnSpace": 19.8125,
@@ -43,7 +45,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 39,
   "shouldTruncate": false,
-  "text": "Hello 获得来自  JS 里面的数据\n{{utils.getShizheng()}}\n\n{{appsmith.user.name || appsmith.user.email}}\n\n{{appsmith.env}}\n\n此编辑来自于 dev-shizheng 分支",
+  "text": "{{utils.getShizheng()}}\n{{utils.fetchUserData.data}}\n此编辑来自于 dev-shizheng 分支",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 18,

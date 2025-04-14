@@ -1,12 +1,16 @@
 {
-  "gitSyncId": "67fc6671d8dd0e25198e9dee_b04c54bd-8516-470a-8e82-d17466f15c59",
-  "id": "Tasks_utils.fetchUserData",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_c8c49c1f-dd03-4741-bde9-4f8b39c82b3d",
+  "id": "Tasks_utils.setListState",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
     "actionConfiguration": {
       "encodeParamsToggle": true,
-      "jsArguments": [],
+      "jsArguments": [
+        {
+          "name": "listState"
+        }
+      ],
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000
     },
@@ -22,9 +26,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
-    "fullyQualifiedName": "utils.fetchUserData",
-    "name": "fetchUserData",
+    "executeOnLoad": false,
+    "fullyQualifiedName": "utils.setListState",
+    "name": "setListState",
     "pageId": "Tasks",
     "userSetOnLoad": false
   }

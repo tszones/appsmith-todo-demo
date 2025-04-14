@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67fc6671d8dd0e25198e9dee_b04c54bd-8516-470a-8e82-d17466f15c59",
-  "id": "Tasks_utils.fetchUserData",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_604f36c9-f228-4495-a1fe-71369b177aa6",
+  "id": "Tasks_utils.toggleShowCompleted",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -22,9 +22,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
-    "fullyQualifiedName": "utils.fetchUserData",
-    "name": "fetchUserData",
+    "executeOnLoad": false,
+    "fullyQualifiedName": "utils.toggleShowCompleted",
+    "name": "toggleShowCompleted",
     "pageId": "Tasks",
     "userSetOnLoad": false
   }

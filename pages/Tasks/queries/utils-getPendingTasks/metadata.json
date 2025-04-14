@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67fc6671d8dd0e25198e9dee_b04c54bd-8516-470a-8e82-d17466f15c59",
-  "id": "Tasks_utils.fetchUserData",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_7ec41143-8973-4246-933e-b1fdc9e827d8",
+  "id": "Tasks_utils.getPendingTasks",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -23,8 +23,8 @@
       }
     ],
     "executeOnLoad": true,
-    "fullyQualifiedName": "utils.fetchUserData",
-    "name": "fetchUserData",
+    "fullyQualifiedName": "utils.getPendingTasks",
+    "name": "getPendingTasks",
     "pageId": "Tasks",
     "userSetOnLoad": false
   }

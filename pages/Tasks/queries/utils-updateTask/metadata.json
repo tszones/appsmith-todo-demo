@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67fc6671d8dd0e25198e9dee_b04c54bd-8516-470a-8e82-d17466f15c59",
-  "id": "Tasks_utils.fetchUserData",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_861ead6e-20a3-4489-820a-a1ac0ceb888d",
+  "id": "Tasks_utils.updateTask",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -22,9 +22,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
-    "fullyQualifiedName": "utils.fetchUserData",
-    "name": "fetchUserData",
+    "executeOnLoad": false,
+    "fullyQualifiedName": "utils.updateTask",
+    "name": "updateTask",
     "pageId": "Tasks",
     "userSetOnLoad": false
   }
