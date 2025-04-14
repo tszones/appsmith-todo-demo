@@ -1,12 +1,19 @@
 {
-  "gitSyncId": "64e59dbf7a61e456ffc69b1b_64f996ea74ad6b3bf4b6a799",
-  "id": "Tasks_utils.toggleShowCompleted",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_b2ff82d0-fc3c-4625-9f25-5994765751d4",
+  "id": "Tasks_utils.createDummyPost",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
     "actionConfiguration": {
       "encodeParamsToggle": true,
-      "jsArguments": [],
+      "jsArguments": [
+        {
+          "name": "title"
+        },
+        {
+          "name": "body"
+        }
+      ],
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000
     },
@@ -23,8 +30,8 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "utils.toggleShowCompleted",
-    "name": "toggleShowCompleted",
+    "fullyQualifiedName": "utils.createDummyPost",
+    "name": "createDummyPost",
     "pageId": "Tasks",
     "userSetOnLoad": false
   }

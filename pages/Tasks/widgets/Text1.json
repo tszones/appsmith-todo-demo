@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 33,
+  "bottomRow": 35,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -33,7 +33,7 @@
   "mobileRightColumn": 39,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "originalBottomRow": 27,
+  "originalBottomRow": 33,
   "originalTopRow": 18,
   "overflow": "NONE",
   "parentColumnSpace": 19.8125,
@@ -43,7 +43,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 39,
   "shouldTruncate": false,
-  "text": "Hello 获得来自  JS 里面的数据\n{{utils.getShizheng()}}\n\n{{appsmith.user.name || appsmith.user.email}}\n\n\n此编辑来自于 dev-shizheng 分支",
+  "text": "Hello 获得来自  JS 里面的数据\n{{utils.getShizheng()}}\n\n{{appsmith.user.name || appsmith.user.email}}\n\n{{appsmith.env}}\n\n此编辑来自于 dev-shizheng 分支",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 18,

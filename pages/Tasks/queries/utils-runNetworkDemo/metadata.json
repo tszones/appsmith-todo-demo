@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "64e59dbf7a61e456ffc69b1b_64f9950b74ad6b3bf4b6a775",
-  "id": "Tasks_utils.getCompletedTasks",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_6991d3cd-e0f4-4ca1-a381-e3a14bb719f5",
+  "id": "Tasks_utils.runNetworkDemo",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -22,9 +22,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
-    "fullyQualifiedName": "utils.getCompletedTasks",
-    "name": "getCompletedTasks",
+    "executeOnLoad": false,
+    "fullyQualifiedName": "utils.runNetworkDemo",
+    "name": "runNetworkDemo",
     "pageId": "Tasks",
     "userSetOnLoad": false
   }
