@@ -1,0 +1,20 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F4FFDE",
+  "evaluationVersion": 2,
+  "icon": "server",
+  "pages": [
+    {
+      "id": "Tasks",
+      "isDefault": true
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  }
+}
