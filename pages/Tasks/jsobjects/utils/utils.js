@@ -12,6 +12,8 @@ export default {
 	},
 
 
+
+
 	toggleShowCompleted: () => {
 		this.showCompleted = !this.showCompleted;
 	},
@@ -97,11 +99,14 @@ export default {
 	// 保留你现有的所有函数和属性...
 
 	// 添加一个使用ky发送请求的新函数
-	fetchUserData: () => {
+  // {{JSON.stringify(utils.fetchUserData.data)}}
+	fetchUserData: async () => {
 		try {
 
 			// 发送GET请求到JSONPlaceholder API (一个公开的测试API)
-			const response = ky.get('https://jsonplaceholder.typicode.com/users/1').json();
+			const response = await ky.get('https://jsonplaceholder.typicode.com/users/1').json();
+
+			console.log(response, "response")
 
 			return response;
 		} catch (error) {

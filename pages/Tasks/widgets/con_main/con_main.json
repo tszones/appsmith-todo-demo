@@ -63,6 +63,7 @@
     }
   ],
   "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [],
   "dynamicTriggerPathList": [],
   "flexVerticalAlignment": "start",
   "hideCard": false,
@@ -80,8 +81,8 @@
   "mobileLeftColumn": 7,
   "mobileRightColumn": 31,
   "mobileTopRow": 29,
-  "originalBottomRow": 145,
-  "originalTopRow": 35,
+  "originalBottomRow": 140,
+  "originalTopRow": 30,
   "parentColumnSpace": 19.8125,
   "parentId": "0",
   "parentRowSpace": 10,
