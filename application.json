@@ -33,6 +33,10 @@
     {
       "id": "todo appsmith store page",
       "isDefault": false
+    },
+    {
+      "id": "摄像头页面",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
