@@ -148,6 +148,10 @@ export default {
 			// `这是一个由ID为${userData.id}的用户创建的演示帖子。`
 			// );
 		}
+	},
+	
+	storeSomethingInlocal: () => {
+		
 	}
 };
 
