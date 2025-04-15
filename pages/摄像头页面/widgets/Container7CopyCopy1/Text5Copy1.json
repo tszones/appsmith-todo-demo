@@ -1,0 +1,42 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "bottomRow": 16,
+  "boxShadow": "none",
+  "displayName": "Text",
+  "dynamicBindingPathList": [],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "fontSize"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "fontFamily": "System Default",
+  "fontSize": "0.75rem",
+  "fontStyle": "BOLD",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.97c59b52.svg",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "f1bhtf6chj",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "overflow": "NONE",
+  "parentColumnSpace": 16.7138671875,
+  "parentId": "fnvojftxxe",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "text": "Note: Please hover over the pointer (1) in this app; it points to the parts of the app that you should look at to understand how it is built.",
+  "textAlign": "LEFT",
+  "textColor": "#3366FF",
+  "topRow": 10,
+  "truncateButtonColor": "#FFC13D",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "f3axpyhfmp",
+  "widgetName": "Text5Copy1"
+}

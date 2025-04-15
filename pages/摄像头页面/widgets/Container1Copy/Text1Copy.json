@@ -1,0 +1,42 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "bottomRow": 5,
+  "boxShadow": "none",
+  "displayName": "Text",
+  "dynamicBindingPathList": [],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "fontSize"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "fontFamily": "System Default",
+  "fontSize": "1.5rem",
+  "fontStyle": "BOLD",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.97c59b52.svg",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "czyq0gtp0e",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "overflow": "NONE",
+  "parentColumnSpace": 16.62109375,
+  "parentId": "osxb29htae",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "text": "Getting the Image URL of a Captured Image from the Camera Widget",
+  "textAlign": "CENTER",
+  "textColor": "#FFFFFF",
+  "topRow": 1,
+  "truncateButtonColor": "#FFC13D",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "3k2iyntve1",
+  "widgetName": "Text1Copy"
+}
