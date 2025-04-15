@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_674f05a8-b888-4e15-8375-36a411de5783",
+  "id": "摄像头页面_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "摄像头页面",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

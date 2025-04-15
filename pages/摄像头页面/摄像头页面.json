@@ -1,24 +1,23 @@
 {
-  "gitSyncId": "64e59dbf7a61e456ffc69b1b_64e59dbf7a61e456ffc69b1f",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_b9e65009-6404-470b-89f7-352b35f5dd66",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 1430,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 840,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 82,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 92,
@@ -27,7 +26,7 @@
         }
       }
     ],
-    "name": "todo home page",
-    "slug": "todo-home-page"
+    "name": "摄像头页面",
+    "slug": ""
   }
 }

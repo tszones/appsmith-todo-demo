@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67fc6671d8dd0e25198e9dee_b04c54bd-8516-470a-8e82-d17466f15c59",
-  "id": "todo home page_utils.fetchUserData",
+  "gitSyncId": "67fc6671d8dd0e25198e9dee_9f795bb7-5b74-4cac-8dbf-dc59b4bc5c95",
+  "id": "todo home page_utils.storeSomethingInlocal",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -23,8 +23,8 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "utils.fetchUserData",
-    "name": "fetchUserData",
+    "fullyQualifiedName": "utils.storeSomethingInlocal",
+    "name": "storeSomethingInlocal",
     "pageId": "todo home page",
     "userSetOnLoad": false
   }

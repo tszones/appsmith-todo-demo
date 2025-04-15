@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 25,
+  "bottomRow": 33,
   "disableLink": false,
   "dynamicBindingPathList": [
     {
@@ -35,7 +35,7 @@
   "mobileRightColumn": 39,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "originalBottomRow": 25,
+  "originalBottomRow": 58,
   "originalTopRow": 18,
   "overflow": "NONE",
   "parentColumnSpace": 19.8125,
@@ -45,7 +45,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 39,
   "shouldTruncate": false,
-  "text": "{{utils.getShizheng()}}\n{{JSON.stringify(utils.fetchUserData.data)}}\n此编辑来自于 dev-shizheng 分支",
+  "text": "{{utils.getShizheng()}}\n\n{{appsmith.user.name}}\n{{appsmith.user.roles}}\n此编辑来自于 dev-shizheng 分支",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 18,
